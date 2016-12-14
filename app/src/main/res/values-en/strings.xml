@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Recovery Exam</string>
+<string name="act1">Activity 01</string>
+<string name="act2">Activity 02</string>
+<string name="act3">Activity 03</string>
+<string name="exit">Exit</string>
+ <string name="notImplement">Activity not implement</string>
+</resources>

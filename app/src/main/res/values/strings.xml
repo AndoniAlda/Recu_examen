@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Examen recuperacion</string>
+    <string name="act1">Actividad 01</string>
+    <string name="act2">Actividad 02</string>
+    <string name="act3">Actividad 03</string>
+    <string name="exit">Salir</string>
+    <string name="notImplement">Actividad no implementada</string>
+</resources>
